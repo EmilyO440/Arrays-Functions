@@ -1,6 +1,7 @@
 
 
-/* Question 1:Create an array called ages that contains the following values: 3, 9, 23, 64, 2, 8, 28, 93.
+/* 
+Question 1:Create an array called ages that contains the following values: 3, 9, 23, 64, 2, 8, 28, 93.
 Programmatically subtract the value of the first element in the array from the value in the last element of the array.
 Do not use numbers to reference the last element, find it programmatically.
 ages[7] - ages[0] is not allowed!
@@ -22,3 +23,6 @@ for (let i = 0; i < ages.length; i++) {
 const averageAge = sum / ages.length;
 console.log("Average age:", averageAge);
 //
+
+/*
+Question 2: 
